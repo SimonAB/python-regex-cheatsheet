@@ -1,4 +1,4 @@
-Python 2.7 Regular Expressions
+Python 3.x Regular Expressions
 ==============================
 
 Non-special chars match themselves. Exceptions are special characters::
@@ -124,8 +124,9 @@ MatchObjects (returned from ``match()`` and ``search()``)::
     .string    string, "
 
 
-Gleaned from the python 2.7 're' docs. http://docs.python.org/library/re.html
+Gleaned from the python 3.x 're' docs. http://docs.python.org/library/re.html
 
-https://github.com/tartley/python-regex-cheatsheet
-Version: v0.3.3
+https://github.com/SimonAB/python-regex-cheatsheet
+Version: v1
 
+(forked from https://github.com/tartley/python-regex-cheatsheet)
